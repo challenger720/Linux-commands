@@ -1,3 +1,3 @@
-1. Recursive PDF downloader
-   Give it "Execute" Permission - chmod +x Download_PDFs.sh
-   Run the script - ./Download_PDFs.sh
+<b>Recursive PDF downloader</b>
+   1. Give it "Execute" Permission - chmod +x Download_PDFs.sh
+   2. Run the script - ./Download_PDFs.sh
