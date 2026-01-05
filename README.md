@@ -1,8 +1,8 @@
-<b>Recursive PDF downloader</b>
+# <b>Recursive PDF downloader</b>
    1. Give it "Execute" Permission - <b>chmod +x Download_PDFs.sh</b>
    2. Run the script - <b>./Download_PDFs.sh</b>
    
-<b>PDF Unlocker (WSL Tool)</b>
+# <b>PDF Unlocker (WSL Tool)</b>
 A utility script to remove permissions and open-passwords from protected documents.
 
 ### Setup
