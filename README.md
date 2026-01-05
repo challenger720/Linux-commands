@@ -8,7 +8,7 @@ This script crawls a specific webpage and downloads all PDF files found on that 
    chmod +x Download_PDFs.sh
 2. **Run the script**
    ```bash
-   ./Download_PDFs.sh
+   ./Download_PDFs.sh [https://example.com/materials/]
 
 # <b>PDF Unlocker (WSL Tool)</b>
 A utility script to remove permissions and open-passwords from protected documents.
