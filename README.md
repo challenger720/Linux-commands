@@ -6,7 +6,7 @@ This script crawls a specific webpage and downloads all PDF files found on that 
 1. **Give it "Execute" Permission:**
    ```bash
    chmod +x Download_PDFs.sh
-2. Run the script
+2. **Run the script**
    ```bash
    ./Download_PDFs.sh
 
